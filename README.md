@@ -1,5 +1,8 @@
 # Pasos a seguir para la instalación del proyecto
 
+##  IMPORTANTE 
+
+Yo a la hora de desplegar react y el server lo hago por separado. Saca la carpeta flask fuera en primer lugar. Abre dos terminales, en uno ejecuta flask y en el otro react.
 
 ##  Scripts para arrancar el proyecto de React
 
